@@ -1,0 +1,51 @@
+STEP translation to Solid Edge
+Date: mar?i,Octombrie 10,2017 04:02p.m.
+Source File: F:\FTC file\STEP file\REV-41-1097.STEP
+Author: Unknown
+Organization: Unknown
+Source System: SolidWorks 2014
+
+Hardware:
+Processor: Intel(R) Core(TM) i7-4720HQ CPU @ 2.60GHz
+Operating System: Windows 8 Professional
+Installed Memory: 3.89 GB
+
+Software Information
+Parasolid Version: 29.0.122
+PSBodyShop Version: 29.0.68
+Step Adapter Version: 2.0.152
+Solid Edge Version: 109.00.00.111 x64
+
+Step Import Options
+Import Faceted Bodies: On
+Import Check Bodies: Off
+Import Curves: On
+Import DoNotSave: On
+Import Multiple Bodies As Single Part File: On
+Import Stitch Surfaces: On
+Import Boolean Solids: On
+Make Base Feature: On
+Simplify Geometry: On
+Import Imprint Curves: On
+Import Drive: C:
+Import Stitch Surfaces: On
+Import Surfaces: On
+Import Output Path: F:\FTC file\STEP file
+Import Enable Default Output Path: On
+Import Path: 
+
+Translating to Parasolid data types...
++Begin Assembly: 1
++Created SE Assembly File F:\FTC file\STEP file\REV-41-1097.asm
+|--+Created SE Part File F:\FTC file\STEP file\A.par
+|--+Created SE Part File F:\FTC file\STEP file\E.par
+|--+Created SE Part File F:\FTC file\STEP file\C.par
+|--+Created SE Part File F:\FTC file\STEP file\B.par
+|--+Created SE Part File F:\FTC file\STEP file\D.par
++Total Parts: 10
++Assemblies: 0
++Solid Bodies: 10
++Sheet Bodies: 0
++End Assembly: 1
+Translation process completed
+Total time required to translate and post process:00 : 00 : 11
